@@ -5,7 +5,6 @@ import SplashCursor from './components/SplashCursor';
 function App() {
   return (
     <div className='App'>
-      {/* Container for the glitch effect and decrypted text */}
       <div className='glitch-container'>
         <LetterGlitch
           glitchSpeed={50}
@@ -13,7 +12,6 @@ function App() {
           outerVignette={false}
           smooth={true}
         />
-        {/* Decrypted text overlay */}
         <div className='decrypted-text-overlay'>
           <DecryptedText
             text='Sheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesh 🔥 '
