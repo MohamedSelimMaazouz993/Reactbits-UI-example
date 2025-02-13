@@ -9,10 +9,10 @@
   npm start
 ```
 
-## Live Demo :
+## Demo :
 
-- https://uiexample.netlify.app/
+[Live Demo](https://uiexample.netlify.app/)
 
 ## For More Components & Styles :
 
-Check : https://www.reactbits.dev/text-animations/split-text
+[Check The Documentation Page](https://www.reactbits.dev/text-animations/split-text)
